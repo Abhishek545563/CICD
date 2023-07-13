@@ -13,8 +13,7 @@ select parse_json(
                     "university": "University of XYZ",
                     "year": "2010-2014",
 					"skills_learned": [
-							"JavaScript",
-							"SQL"
+							"JavaScript"
 							]
                 },
                 {
