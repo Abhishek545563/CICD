@@ -1,3 +1,4 @@
+use schema d1.s2;
 insert into test_cicd
 select parse_json(
 '{
